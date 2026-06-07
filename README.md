@@ -6,8 +6,7 @@ This project analyzes delivery performance for Veridi Logistics using the Olist 
 Findings show that while 93.23% of deliveries are completed on time, late deliveries significantly reduce customer satisfaction. There is also clear regional variation in delivery performance, indicating that logistics inefficiencies are not uniform across all states.
 
 ## Project Links
-- Dashboard (Tableau) : https://public.tableau.com/views/VeridiLogisticsDeliveryPerformanceAudit_
-17808699242500/VeridiLogisticsDeliveryPerformanceAudit?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link   
+- Dashboard (Tableau) : https://public.tableau.com/views/VeridiLogisticsDeliveryPerformanceAudit_17808699242500/VeridiLogisticsDeliveryPerformanceAudit?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link   
 - Notebook: https://colab.research.google.com/drive/1BbZ4XWxqE1x_7Diwdr6i24HrO8zQWcIQ?usp=sharing
 ## Data Cleaning & Preparation
 - Merged Orders, Customers, Reviews, and Products datasets into a master dataset
