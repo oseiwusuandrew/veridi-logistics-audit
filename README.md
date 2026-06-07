@@ -7,7 +7,7 @@ Findings show that while 93.23% of deliveries are completed on time, late delive
 
 ## Project Links
 - Dashboard (Tableau Public): [PASTE LINK HERE]
-
+- Notebook: https://colab.research.google.com/drive/1BbZ4XWxqE1x_7Diwdr6i24HrO8zQWcIQ?usp=sharing
 ## Data Cleaning & Preparation
 - Merged Orders, Customers, Reviews, and Products datasets into a master dataset
 - Converted date fields to proper datetime format
